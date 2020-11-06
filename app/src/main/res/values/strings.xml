@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="edit_location">Enter City/Zip</string>
+    <string name="button_send">Search</string>
+    <string name="speak">Speech to Text</string>
+    <string name="title_activity_gpstracker">GPSTracker</string>
+    <string name="title_activity_map_view">MapViewActivity</string>
+</resources>
